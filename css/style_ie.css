@@ -1,0 +1,7 @@
+body {
+	display: none;
+}
+
+html:after {
+	content: "Please open this page in newer browser.";
+}
