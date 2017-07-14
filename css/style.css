@@ -274,19 +274,15 @@ header #tel {
 }
 
 #consult_btn>.layer1>.layer2>.layer3:after {
-background: -moz-linear-gradient(top, rgba(54,204,30,1) 0%, rgba(56,183,36,1) 100%); /* FF3.6-15 */
-background: -webkit-linear-gradient(top, rgba(54,204,30,1) 0%,rgba(56,183,36,1) 100%); /* Chrome10-25,Safari5.1-6 */
-background: -o-linear-gradient(top, rgba(54,204,30,1) 0%,rgba(56,183,36,1) 100%); /* Opera 11.10-11.50 */
-background: linear-gradient(to bottom, rgba(54,204,30,1) 0%,rgba(56,183,36,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-	/* background: linear-gradient(to bottom right, white, white); */
+	background: -webkit-linear-gradient(315deg, rgba(54,204,30,1) 0%,rgba(56,183,36,1) 100%);
+	background: -o-linear-gradient(315deg, rgba(54,204,30,1) 0%,rgba(56,183,36,1) 100%);
+	background: linear-gradient(135deg, rgba(54,204,30,1) 0%,rgba(56,183,36,1) 100%);
 }
 
 #consult_btn>.layer1>.layer1>.layer1>.layer2>.layer3:after {
-background: -moz-linear-gradient(top, rgba(55,203,31,1) 0%, rgba(56,185,36,1) 100%); /* FF3.6-15 */
-background: -webkit-linear-gradient(top, rgba(55,203,31,1) 0%,rgba(56,185,36,1) 100%); /* Chrome10-25,Safari5.1-6 */
-background: -o-linear-gradient(top, rgba(55,203,31,1) 0%,rgba(56,185,36,1) 100%); /* Opera 11.10-11.50 */
-background: linear-gradient(to bottom, rgba(55,203,31,1) 0%,rgba(56,185,36,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-	/* background: linear-gradient(to bottom right, white, white); */
+	background: -webkit-linear-gradient(315deg, rgb(54, 203, 30) 0%,rgba(56,185,36,1) 100%);
+	background: -o-linear-gradient(315deg, rgb(54, 203, 30) 0%,rgba(56,185,36,1) 100%);
+	background: linear-gradient(135deg, rgb(54, 203, 30) 0%,rgba(56,185,36,1) 100%);
 }
 
 #consult_btn p {
@@ -704,19 +700,15 @@ background: linear-gradient(to bottom, rgba(0,199,253,1) 0%,rgba(8,180,235,1) 10
 }
 
 #skype_btn>.layer1>.layer2>.layer3:after {
-background: -moz-linear-gradient(top, rgba(2,194,249,1) 0%, rgba(13,164,222,1) 100%); /* FF3.6-15 */
-background: -webkit-linear-gradient(top, rgba(2,194,249,1) 0%,rgba(13,164,222,1) 100%); /* Chrome10-25,Safari5.1-6 */
-background: -o-linear-gradient(top, rgba(2,194,249,1) 0%,rgba(13,164,222,1) 100%); /* Opera 11.10-11.50 */
-background: linear-gradient(to bottom, rgba(2,194,249,1) 0%,rgba(13,164,222,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-	/* background: linear-gradient(to bottom right, white, white); */
+	background: -webkit-linear-gradient(135deg, rgba(2,194,249,1) 0%,rgba(13,164,222,1) 100%);
+	background: -o-linear-gradient(135deg, rgba(2,194,249,1) 0%,rgba(13,164,222,1) 100%);
+	background: linear-gradient(315deg, rgba(2,194,249,1) 0%,rgba(13,164,222,1) 100%);
 }
 
 #skype_btn>.layer1>.layer1>.layer1>.layer2>.layer3:after {
-background: -moz-linear-gradient(top, rgba(2,195,249,1) 0%, rgba(12,167,225,1) 100%); /* FF3.6-15 */
-background: -webkit-linear-gradient(top, rgba(2,195,249,1) 0%,rgba(12,167,225,1) 100%); /* Chrome10-25,Safari5.1-6 */
-background: -o-linear-gradient(top, rgba(2,195,249,1) 0%,rgba(12,167,225,1) 100%); /* Opera 11.10-11.50 */
-background: linear-gradient(to bottom, rgba(2,195,249,1) 0%,rgba(12,167,225,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-	/* background: linear-gradient(to bottom right, white, white); */
+	background: -webkit-linear-gradient(315deg, rgba(2,195,249,1) 0%,rgba(12,167,225,1) 100%);
+	background: -o-linear-gradient(315deg, rgba(2,195,249,1) 0%,rgba(12,167,225,1) 100%);
+	background: linear-gradient(135deg, rgba(2,195,249,1) 0%,rgba(12,167,225,1) 100%);
 }
 
 #skype_btn  p {
