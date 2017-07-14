@@ -1041,19 +1041,15 @@ background: linear-gradient(77deg, rgba(0,0,0,0) 37%,rgba(201,201,201,1) 39%,rgb
 }
 
 .site_type_header>.layer1>.layer1>.layer1>.layer2>.layer3:after {
-	/* background: #ee8600; */
-background: 
-	-moz-linear-gradient(top, rgba(238,134,0,1) 46%, rgba(0,0,0,0) 68%),
-	-moz-linear-gradient(top, rgba(0,0,0,1) 40%, rgba(238,134,0,1) 53%); /* FF3.6-15 */
-background: 
-	-webkit-linear-gradient(top, rgba(238,134,0,1) 46%,rgba(0,0,0,0) 68%),
-	-webkit-linear-gradient(top, rgba(0,0,0,1) 40%,rgba(238,134,0,1) 53%); /* Chrome10-25,Safari5.1-6 */
-background: 
-	-o-linear-gradient(top, rgba(238,134,0,1) 46%,rgba(0,0,0,0) 68%),
-	-o-linear-gradient(top, rgba(0,0,0,1) 40%,rgba(238,134,0,1) 53%); /* Opera 11.10-11.50 */
-background: 
-	linear-gradient(to bottom, rgba(238,134,0,1) 46%,rgba(0,0,0,0) 68%),
-	linear-gradient(to bottom, rgba(0,0,0,1) 40%,rgba(238,134,0,1) 53%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	background: 
+		-webkit-linear-gradient(46deg, rgba(238,134,0,1) 46%,rgba(0,0,0,0) 68%),  
+		-webkit-linear-gradient(135deg, rgba(0,0,0,1) 41%,rgba(238,134,0,1) 46%);
+	background: 
+		-o-linear-gradient(46deg, rgba(238,134,0,1) 46%,rgba(0,0,0,0) 68%),  
+		-o-linear-gradient(135deg, rgba(0,0,0,1) 41%,rgba(238,134,0,1) 46%);
+	background: 
+		linear-gradient(44deg, rgba(238,134,0,1) 46%,rgba(0,0,0,0) 68%),  
+		linear-gradient(315deg, rgba(0,0,0,1) 41%,rgba(238,134,0,1) 46%);
 	-webkit-box-shadow: inset -3px -1px 2px 1px rgba(0, 0, 0, 0.14);
 	-moz-box-shadow: inset -3px -1px 2px 1px rgba(0, 0, 0, 0.14);
 	box-shadow: inset -3px -1px 2px 1px rgba(0, 0, 0, 0.14);
@@ -1353,17 +1349,14 @@ background: linear-gradient(to bottom, rgba(255,200,126,1) 0%,rgba(250,160,62,1)
 
 #portfolio_header>.layer1>.layer1>.layer1>.layer2>.layer3:after {
 	background: 
-	-moz-linear-gradient(top, rgba(46,167,24,1) 46%, rgba(0,0,0,0) 68%),
-	-moz-linear-gradient(top, rgba(0,0,0,1) 40%, rgba(46,167,24,1) 53%); /* FF3.6-15 */
-background: 
-	-webkit-linear-gradient(top, rgba(46,167,24,1) 46%,rgba(0,0,0,0) 68%),
-	-webkit-linear-gradient(top, rgba(0,0,0,1) 40%,rgba(46,167,24,1) 53%); /* Chrome10-25,Safari5.1-6 */
-background: 
-	-o-linear-gradient(top, rgba(46,167,24,1) 46%,rgba(0,0,0,0) 68%),
-	-o-linear-gradient(top, rgba(0,0,0,1) 40%,rgba(46,167,24,1) 53%); /* Opera 11.10-11.50 */
-background: 
-	linear-gradient(to bottom, rgba(46,167,24,1) 46%,rgba(0,0,0,0) 68%),
-	linear-gradient(to bottom, rgba(0,0,0,1) 40%,rgba(46,167,24,1) 53%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+		-webkit-linear-gradient(46deg, rgb(46, 167, 24) 46%,rgba(0,0,0,0) 68%),  
+		-webkit-linear-gradient(135deg, rgba(0,0,0,1) 41%,rgb(46, 167, 24) 46%);
+	background: 
+		-o-linear-gradient(46deg, rgb(46, 167, 24) 46%,rgba(0,0,0,0) 68%),  
+		-o-linear-gradient(135deg, rgba(0,0,0,1) 41%,rgb(46, 167, 24) 46%);
+	background: 
+		linear-gradient(44deg, rgb(46, 167, 24) 46%,rgba(0,0,0,0) 68%),  
+		linear-gradient(315deg, rgba(0,0,0,1) 41%,rgb(46, 167, 24) 46%);
 	-webkit-box-shadow: inset -3px -1px 2px 1px rgba(0, 0, 0, 0.14);
 	-moz-box-shadow: inset -3px -1px 2px 1px rgba(0, 0, 0, 0.14);
 	box-shadow: inset -3px -1px 2px 1px rgba(0, 0, 0, 0.14);
@@ -1630,18 +1623,15 @@ border-image: linear-gradient(to bottom, rgba(172,172,172,1) 0%,rgba(133,133,133
 }
 
 #comments_header>.layer1>.layer1>.layer1>.layer2>.layer3:after {
-background: 
-	-moz-linear-gradient(top, rgba(46,167,24,1) 46%, rgba(0,0,0,0) 68%),
-	-moz-linear-gradient(top, rgba(0,0,0,1) 40%, rgba(46,167,24,1) 53%); /* FF3.6-15 */
-background: 
-	-webkit-linear-gradient(top, rgba(46,167,24,1) 46%,rgba(0,0,0,0) 68%),
-	-webkit-linear-gradient(top, rgba(0,0,0,1) 40%,rgba(46,167,24,1) 53%); /* Chrome10-25,Safari5.1-6 */
-background: 
-	-o-linear-gradient(top, rgba(46,167,24,1) 46%,rgba(0,0,0,0) 68%),
-	-o-linear-gradient(top, rgba(0,0,0,1) 40%,rgba(46,167,24,1) 53%); /* Opera 11.10-11.50 */
-background: 
-	linear-gradient(to bottom, rgba(46,167,24,1) 46%,rgba(0,0,0,0) 68%),
-	linear-gradient(to bottom, rgba(0,0,0,1) 40%,rgba(46,167,24,1) 53%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	background: 
+		-webkit-linear-gradient(46deg, rgb(46, 167, 24) 46%,rgba(0,0,0,0) 68%), 
+		-webkit-linear-gradient(135deg, rgba(0,0,0,1) 41%,rgb(46, 167, 24) 46%);
+	background: 
+		-o-linear-gradient(46deg, rgb(46, 167, 24) 46%,rgba(0,0,0,0) 68%),
+		-o-linear-gradient(135deg, rgba(0,0,0,1) 41%,rgb(46, 167, 24) 46%);
+	background: 
+		linear-gradient(44deg, rgb(46, 167, 24) 46%,rgba(0,0,0,0) 68%),
+		linear-gradient(315deg, rgba(0,0,0,1) 41%,rgb(46, 167, 24) 46%);
 	-webkit-box-shadow: inset -3px -1px 2px 1px rgba(0, 0, 0, 0.14);
 	-moz-box-shadow: inset -3px -1px 2px 1px rgba(0, 0, 0, 0.14);
 	box-shadow: inset -3px -1px 2px 1px rgba(0, 0, 0, 0.14);
